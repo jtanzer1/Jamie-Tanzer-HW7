@@ -9,7 +9,7 @@ import twitter_info # still need this in the same directory, filled out
 
 ## Make sure to comment with:
 # Your name:Jamie Tanzer
-# The names of any people you worked with for this assignment: 
+# The names of any people you worked with for this assignment: Margaux Klein
 
 # ******** #
 ### Useful resources for this HW:
